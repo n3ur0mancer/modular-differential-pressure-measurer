@@ -1,0 +1,10 @@
+build/
+Archives/
+Binaries/
+.settings
+.project
+.cproject
+*.launch
+*.cmake
+sdkconfig
+sdkconfig.old
