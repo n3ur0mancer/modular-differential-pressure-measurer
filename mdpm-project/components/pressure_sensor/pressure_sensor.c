@@ -1,6 +1,6 @@
 #include "pressure_sensor.h"
-#include "driver/adc.h"
 #include "filter.h"
+#include "driver/adc.h"
 #include "project_config.h"
 #include <stdio.h>
 

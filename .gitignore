@@ -5,6 +5,7 @@
 /mdpm-project/build
 .cproject
 .project
+.vscode
 # User-specific files
 *.rsuser
 *.suo
